@@ -1,4 +1,4 @@
-deployd: Self-Hosted Edge Runtime
+# deployd: Self-Hosted Edge Runtime
 
 Self-hosted version of Deno Deploy. Runs serverless functions and full
 Javascript/Typescript applications with production-grade sandboxing and
