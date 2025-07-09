@@ -84,6 +84,6 @@ docker run -it -p 8080:8080 --privileged ghcr.io/denoland/deployd --isolate-thre
 
 ## Requirements
 
-- Docker with privileged mode, or `CAP_SYS_ADMIN` capability and tap device
+- Docker with privileged mode, or `CAP_SYS_ADMIN` capability and tun device
 - Port 8080 available for web interface
 - For S3 storage: valid AWS credentials or S3-compatible storage access
